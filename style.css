@@ -1,6 +1,5 @@
 .card-list {
-   display: flex;
-position: relative;
+
 }
 .card-item { 
     width: 250px;
@@ -24,4 +23,5 @@ position: relative;
     top: 300px;
 }
 .card {
+
 }
