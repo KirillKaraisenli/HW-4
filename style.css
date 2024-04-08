@@ -1,0 +1,27 @@
+.card-list {
+   display: flex;
+position: relative;
+}
+.card-item { 
+    width: 250px;
+    height: 250px;   
+    position: absolute;
+}
+.card-item:nth-child(1) { 
+    z-index: 1;
+    background-color: brown;
+}
+.card-item:nth-child(2) {
+    z-index: 2;
+    background-color: rgb(42, 142, 165);   
+    left: 150px;
+    top: 150px;
+}
+.card-item:nth-child(3) {
+    z-index: 1;
+    background-color: chocolate;
+    left: 300px;
+    top: 300px;
+}
+.card {
+}
