@@ -18,7 +18,7 @@
 }
 .card-item:nth-child(3) {
     z-index: 1;
-    background-color: chocolate;
+    background-color: rgb(0, 248, 87);
     left: 300px;
     top: 300px;
 }
